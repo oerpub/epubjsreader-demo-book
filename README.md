@@ -1,7 +1,13 @@
 Howdy!
 ============
 
-This is a test book on GitHub. From here you can:
+This is a test book on GitHub, designed to show how EPUBjs Reader can be used to view the book online since the editor creates
+the book in EPUB3 format. 
+
+The book content comes from OpenStaxCollege Anatomy and Physiology book. 
+To find out more about the source and licensing (CC-BY) for the book contents, see http://cnx.org/content/col11496/latest/.
+
+From here you can:
 
 1. **[Read the book online](http://oerpub.github.io/epubjsreader-demo-book/reader/)** (note the **TOC button** on the top-left and the **Annotation buttons** on the top-right of the page)
 2. **[Download the PDF!](http://pdf.oerpub.org/oerpub/epubjsreader-demo-book/)** [![PDF Status](http://pdf.oerpub.org/oerpub/epubjsreader-demo-book.png)](http://pdf.oerpub.org/oerpub/epubjsreader-demo-book/) : updated every time the book is changed
