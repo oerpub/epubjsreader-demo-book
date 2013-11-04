@@ -3,18 +3,18 @@ Howdy!
 
 This is a test book on GitHub. From here you can:
 
-1. **[Read the book online](http://philschatz.github.io/epub-anatomy/reader/)** (note the **TOC button** on the top-left and the **Annotation buttons** on the top-right of the page)
-2. **[Download the PDF!](http://pdf.oerpub.org/philschatz/epub-anatomy/)** [![PDF Status](http://pdf.oerpub.org/philschatz/epub-anatomy.png)](http://pdf.oerpub.org/philschatz/epub-anatomy/) : updated every time the book is changed
-3. **[Edit the Book online!](http://oerpub.github.io/github-bookeditor/#repo/philschatz/epub-anatomy)** : takes a while to load but close the login to just play around
-4. [Download the book](https://github.com/philschatz/epub-anatomy/archive/master.zip) by clicking the "[Download ZIP](https://github.com/philschatz/epub-anatomy/archive/master.zip)" button on this page
+1. **[Read the book online](http://oerpub.github.io/epubjsreader-demo-book/reader/)** (note the **TOC button** on the top-left and the **Annotation buttons** on the top-right of the page)
+2. **[Download the PDF!](http://pdf.oerpub.org/oerpub/epubjsreader-demo-book/)** [![PDF Status](http://pdf.oerpub.org/oerpub/epubjsreader-demo-book.png)](http://pdf.oerpub.org/oerpub/epubjsreader-demo-book/) : updated every time the book is changed
+3. **[Edit the Book online!](http://oerpub.github.io/github-bookeditor/#repo/oerpub/epubjsreader-demo-book)** : takes a while to load but close the login to just play around
+4. [Download the book](https://github.com/oerpub/epubjsreader-demo-book/archive/gh-pages.zip) by clicking the "[Download ZIP](https://github.com/oerpub/epubjsreader-demo-book/archive/gh-pages.zip)" button on this page
 
 ----
 
 ## Danger! Below be Dragons
 
-You've been warned! These are just notes I jotted down when building this repository.
+You've been warned! These are just notes Phil Schatz from Connexions jotted down when building this repository.
 
-Anatomy and Physiology test data
+OpenStaxCollege Anatomy and Physiology test data
 
 Converting EPS files to SVG
 ---------------------------
